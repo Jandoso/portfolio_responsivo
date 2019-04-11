@@ -8,7 +8,7 @@
 .container{
     width: 80%;
     margin: 0 auto;
-    margin-top: 100px
+    margin-top: 20px
 }
 
 header, .sobreMim{
@@ -42,10 +42,12 @@ body{
 }
 .seta{
     padding: 50px;
-}
-.seta_img{
     width: 4%;
 }
+.p_panel{
+    font-size: 1.3rem;
+}
+
 .projetos_title,  .titles{
     color: #C9A716;
     text-align: center;
